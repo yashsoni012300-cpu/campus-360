@@ -1,0 +1,6 @@
+{
+  "name": "Campus360 - Integrated Digital Hub for Campus Services",
+  "description": "Unified digital portal and campus services platform connecting attendance, library, campus news, events, and student feedback for modern university ecosystems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
